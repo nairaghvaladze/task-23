@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'Inter';;
+    src : url(../font/Inter-Regular.ttf)
+ }
+
+
+ @media only screen and (max-width:768px) {
+    .cont_1 {display: none !important;}
+    .cont_3 {display: inline-block !important;}
+   
+    
+}
+
+
+body {
+    background: #070F11;
+}
+.text1 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 60px;
+line-height: 73px;
+color: #FFFFFF;
+
+}
+.bottom {
+    position: absolute;
+    bottom: 0;
+}
+.bottom>h1 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 78px;
+line-height: 94px;
+color: #FFFFFF;
+}
+.bottom>p {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+}
+.cont_2 {
+    background-image: url(../image/image\ 138.png);
+   height: 655px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+ 
+  
+}
+.cont_3{
+    background-image: url(../image/image\ 138\ \(1\).png);
+   
+   
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100% 100%;
+}
+.bottom1 {
+    position: absolute;
+   bottom: 0;
+}
+.bottom1>h1 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 46.2671px;
+line-height: 94px;
+color: #FFFFFF;
+}
+.bottom1>p {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+font-size: 18.9814px;
+color: #FFFFFF;
+}
+.text3 {
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 100;
+font-size: 36px;
+line-height: 73px;
+color: #FFFFFF;
+
+}
